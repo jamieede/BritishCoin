@@ -1,0 +1,9 @@
+Building GPUcoin
+
+See doc/readme-qt.rst for instructions on building GPUcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GPUcoin.
+
+See doc/build-*.txt for instructions on building gpucoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of GPUcoin.
