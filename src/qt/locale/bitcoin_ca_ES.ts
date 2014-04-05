@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About GPUcoin</source>
-        <translation>Sobre GPUcoin</translation>
+        <source>About Britishcoin</source>
+        <translation>Sobre Britishcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;GPUcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;GPUcoin&lt;/b&gt; versió</translation>
+        <source>&lt;b&gt;Britishcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Britishcoin&lt;/b&gt; versió</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -29,7 +29,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The GPUcoin developers</source>
+        <source>The Britishcoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -62,8 +62,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your GPUcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces GPUcoin per a rebre pagaments. Pot interesar-te proveïr diferents adreces a cadascun dels enviadors així pots identificar qui et va pagant.</translation>
+        <source>These are your Britishcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces Britishcoin per a rebre pagaments. Pot interesar-te proveïr diferents adreces a cadascun dels enviadors així pots identificar qui et va pagant.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -77,8 +77,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a GPUcoin address</source>
-        <translation>Signa el missatge per provar que ets propietari de l&apos;adreça GPUcoin</translation>
+        <source>Sign a message to prove you own a Britishcoin address</source>
+        <translation>Signa el missatge per provar que ets propietari de l&apos;adreça Britishcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -102,8 +102,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified GPUcoin address</source>
-        <translation>Verificar un missatge per asegurar-se que ha estat signat amb una adreça GPUcoin específica</translation>
+        <source>Verify a message to ensure it was signed with a specified Britishcoin address</source>
+        <translation>Verificar un missatge per asegurar-se que ha estat signat amb una adreça Britishcoin específica</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -117,8 +117,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your GPUcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Aquestes són la seva adreça de GPUcoin per enviar els pagaments. Sempre revisi la quantitat i l&apos;adreça del destinatari abans transferència de monedes.</translation>
+        <source>These are your Britishcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Aquestes són la seva adreça de Britishcoin per enviar els pagaments. Sempre revisi la quantitat i l&apos;adreça del destinatari abans transferència de monedes.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -243,8 +243,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR GPUCOINS&lt;/b&gt;!</source>
-        <translation>Advertència: Si encripteu el vostre moneder i perdeu la constrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES GPUCOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BRITISHCOINS&lt;/b&gt;!</source>
+        <translation>Advertència: Si encripteu el vostre moneder i perdeu la constrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES BRITISHCOINS&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -270,8 +270,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>GPUcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your gpucoins from being stolen by malware infecting your computer.</source>
-        <translation>GPUcoin es tancarà ara per acabar el procés d&apos;encriptació. Recorda que encriptar el teu moneder no protegeix completament els teus gpucoins de ser robades per programari maliciós instal·lat al teu ordinador.</translation>
+        <source>Britishcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your britishcoins from being stolen by malware infecting your computer.</source>
+        <translation>Britishcoin es tancarà ara per acabar el procés d&apos;encriptació. Recorda que encriptar el teu moneder no protegeix completament els teus britishcoins de ser robades per programari maliciós instal·lat al teu ordinador.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -369,8 +369,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about GPUcoin</source>
-        <translation>Mostra informació sobre GPUcoin</translation>
+        <source>Show information about Britishcoin</source>
+        <translation>Mostra informació sobre Britishcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -414,13 +414,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a GPUcoin address</source>
-        <translation>Enviar monedes a una adreça GPUcoin</translation>
+        <source>Send coins to a Britishcoin address</source>
+        <translation>Enviar monedes a una adreça Britishcoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for GPUcoin</source>
-        <translation>Modificar les opcions de configuració per gpucoin</translation>
+        <source>Modify configuration options for Britishcoin</source>
+        <translation>Modificar les opcions de configuració per britishcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -450,8 +450,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>GPUcoin</source>
-        <translation>GPUcoin</translation>
+        <source>Britishcoin</source>
+        <translation>Britishcoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -475,8 +475,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About GPUcoin</source>
-        <translation>&amp;Sobre GPUcoin</translation>
+        <source>&amp;About Britishcoin</source>
+        <translation>&amp;Sobre Britishcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -495,13 +495,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your GPUcoin addresses to prove you own them</source>
-        <translation>Signa el missatges amb la seva adreça de GPUcoin per provar que les poseeixes</translation>
+        <source>Sign messages with your Britishcoin addresses to prove you own them</source>
+        <translation>Signa el missatges amb la seva adreça de Britishcoin per provar que les poseeixes</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified GPUcoin addresses</source>
-        <translation>Verificar els missatges per assegurar-te que han estat signades amb una adreça GPUcoin específica.</translation>
+        <source>Verify messages to ensure they were signed with specified Britishcoin addresses</source>
+        <translation>Verificar els missatges per assegurar-te que han estat signades amb una adreça Britishcoin específica.</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -531,13 +531,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>GPUcoin client</source>
-        <translation>Client GPUcoin</translation>
+        <source>Britishcoin client</source>
+        <translation>Client Britishcoin</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to GPUcoin network</source>
-        <translation><numerusform>%n connexió activa a la xarxa GPUcoin</numerusform><numerusform>%n connexions actives a la xarxa GPUcoin</numerusform></translation>
+        <source>%n active connection(s) to Britishcoin network</source>
+        <translation><numerusform>%n connexió activa a la xarxa Britishcoin</numerusform><numerusform>%n connexions actives a la xarxa Britishcoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -647,8 +647,8 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid GPUcoin address or malformed URI parameters.</source>
-        <translation>la URI no pot ser processada! Això es pot ser causat per una adreça GPUcoin invalida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Britishcoin address or malformed URI parameters.</source>
+        <translation>la URI no pot ser processada! Això es pot ser causat per una adreça Britishcoin invalida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -662,8 +662,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. GPUcoin can no longer continue safely and will quit.</source>
-        <translation>Ha tingut lloc un error fatal. GPUcoin no pot continuar executant-se de manera segura i es tancará.</translation>
+        <source>A fatal error occurred. Britishcoin can no longer continue safely and will quit.</source>
+        <translation>Ha tingut lloc un error fatal. Britishcoin no pot continuar executant-se de manera segura i es tancará.</translation>
     </message>
 </context>
 <context>
@@ -728,8 +728,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid GPUcoin address.</source>
-        <translation>L&apos;adreça introduida &quot;%1&quot; no és una adreça GPUcoin valida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Britishcoin address.</source>
+        <translation>L&apos;adreça introduida &quot;%1&quot; no és una adreça Britishcoin valida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -747,8 +747,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>GPUcoin-Qt</source>
-        <translation>GPUcoin-Qt</translation>
+        <source>Britishcoin-Qt</source>
+        <translation>Britishcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -810,13 +810,13 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start GPUcoin after logging in to the system.</source>
-        <translation>Iniciar automàticament GPUcoin després de l&apos;inici de sessió del sistema.</translation>
+        <source>Automatically start Britishcoin after logging in to the system.</source>
+        <translation>Iniciar automàticament Britishcoin després de l&apos;inici de sessió del sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start GPUcoin on system login</source>
-        <translation>&amp;Iniciar GPUcoin al inici de sessió del sistema.</translation>
+        <source>&amp;Start Britishcoin on system login</source>
+        <translation>&amp;Iniciar Britishcoin al inici de sessió del sistema.</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -835,8 +835,8 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the GPUcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir el port del client de GPUcoin al router de forma automàtica. Això només funciona quan el teu router implementa UPnP i l&apos;opció està activada.</translation>
+        <source>Automatically open the Britishcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir el port del client de Britishcoin al router de forma automàtica. Això només funciona quan el teu router implementa UPnP i l&apos;opció està activada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -845,8 +845,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the GPUcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connectar a la xarxa GPUcoin a través de un SOCKS proxy (per exemple connectant a través de Tor).</translation>
+        <source>Connect to the Britishcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connectar a la xarxa Britishcoin a través de un SOCKS proxy (per exemple connectant a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -920,8 +920,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting GPUcoin.</source>
-        <translation>Aquí pots definir el llenguatge de l&apos;aplicatiu. Aquesta configuració tindrà efecte un cop es reiniciï GPUcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Britishcoin.</source>
+        <translation>Aquí pots definir el llenguatge de l&apos;aplicatiu. Aquesta configuració tindrà efecte un cop es reiniciï Britishcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -935,8 +935,8 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show GPUcoin addresses in the transaction list or not.</source>
-        <translation>Mostrar adreces GPUcoin als llistats de transaccions o no.</translation>
+        <source>Whether to show Britishcoin addresses in the transaction list or not.</source>
+        <translation>Mostrar adreces Britishcoin als llistats de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -987,8 +987,8 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting GPUcoin.</source>
-        <translation>Aquesta configuració tindrà efecte un cop es reiniciï GPUcoin.</translation>
+        <source>This setting will take effect after restarting Britishcoin.</source>
+        <translation>Aquesta configuració tindrà efecte un cop es reiniciï Britishcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1006,8 +1006,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GPUcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa GPUcoin un cop s&apos;ha establert connexió, però aquest proces no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Britishcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa Britishcoin un cop s&apos;ha establert connexió, però aquest proces no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1060,8 +1060,8 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start gpucoin: click-to-pay handler</source>
-        <translation>No es pot iniciar gpucoin: manejador clicla-per-pagar</translation>
+        <source>Cannot start britishcoin: click-to-pay handler</source>
+        <translation>No es pot iniciar britishcoin: manejador clicla-per-pagar</translation>
     </message>
 </context>
 <context>
@@ -1210,8 +1210,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the GPUcoin-Qt help message to get a list with possible GPUcoin command-line options.</source>
-        <translation>Mostrar el missatge d&apos;ajuda de GPUcoin-Qt per a obtenir un llistat de possibles ordres per a la línia d&apos;ordres de GPUcoin.</translation>
+        <source>Show the Britishcoin-Qt help message to get a list with possible Britishcoin command-line options.</source>
+        <translation>Mostrar el missatge d&apos;ajuda de Britishcoin-Qt per a obtenir un llistat de possibles ordres per a la línia d&apos;ordres de Britishcoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1230,13 +1230,13 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>GPUcoin - Debug window</source>
-        <translation>GPUcoin -Finestra de debug</translation>
+        <source>Britishcoin - Debug window</source>
+        <translation>Britishcoin -Finestra de debug</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>GPUcoin Core</source>
-        <translation>Nucli de GPUcoin</translation>
+        <source>Britishcoin Core</source>
+        <translation>Nucli de Britishcoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1245,8 +1245,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the GPUcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obrir el dietari de debug de GPUcoin del directori de dades actual. Aixó pot trigar uns quants segons per a dietàris grossos.</translation>
+        <source>Open the Britishcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obrir el dietari de debug de Britishcoin del directori de dades actual. Aixó pot trigar uns quants segons per a dietàris grossos.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1255,8 +1255,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the GPUcoin RPC console.</source>
-        <translation>Benvingut a la consola RPC de GPUcoin</translation>
+        <source>Welcome to the Britishcoin RPC console.</source>
+        <translation>Benvingut a la consola RPC de Britishcoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1439,8 +1439,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a GPUcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introdueixi una adreça de GPUcoin (per exemple Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Britishcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introdueixi una adreça de Britishcoin (per exemple Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1504,8 +1504,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this GPUcoin address</source>
-        <translation>Signa el missatge per provar que ets propietari d&apos;aquesta adreça GPUcoin</translation>
+        <source>Sign the message to prove you own this Britishcoin address</source>
+        <translation>Signa el missatge per provar que ets propietari d&apos;aquesta adreça Britishcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1540,8 +1540,8 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified GPUcoin address</source>
-        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça GPUcoin específica</translation>
+        <source>Verify the message to ensure it was signed with the specified Britishcoin address</source>
+        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça Britishcoin específica</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1556,8 +1556,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a GPUcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introdueixi una adreça de GPUcoin (per exemple Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Britishcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introdueixi una adreça de Britishcoin (per exemple Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1566,8 +1566,8 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter GPUcoin signature</source>
-        <translation>Introduïr una clau GPUcoin</translation>
+        <source>Enter Britishcoin signature</source>
+        <translation>Introduïr una clau Britishcoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1640,7 +1640,7 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The GPUcoin developers</source>
+        <source>The Britishcoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2178,8 +2178,8 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>GPUcoin version</source>
-        <translation>Versió de GPUcoin</translation>
+        <source>Britishcoin version</source>
+        <translation>Versió de Britishcoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2188,8 +2188,8 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or gpucoind</source>
-        <translation>Enviar comanda a -servidor o gpucoind</translation>
+        <source>Send command to -server or britishcoind</source>
+        <translation>Enviar comanda a -servidor o britishcoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2208,13 +2208,13 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: gpucoin.conf)</source>
-        <translation>Especificat arxiu de configuració (per defecte: gpucoin.conf)</translation>
+        <source>Specify configuration file (default: britishcoin.conf)</source>
+        <translation>Especificat arxiu de configuració (per defecte: britishcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: gpucoind.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: gpucoind.pid)</translation>
+        <source>Specify pid file (default: britishcoind.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: britishcoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2291,15 +2291,15 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=gpucoinrpc
+rpcuser=britishcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;GPUcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Britishcoin Alert&quot; admin@foo.com
 </source>
-        <translation>%s has de establir una contrasenya RPC a l&apos;arxiu de configuració:\n%s\nEs recomana que useu la següent constrasenya aleatòria:\nrpcuser=gpucoinrpc\nrpcpassword=%s\n(no necesiteu recordar aquesta contrsenya)\nEl nom d&apos;usuari i contrasenya NO HAN de ser els mateixos.\nSi l&apos;arxiu no existeix, crea&apos;l amb els permisos d&apos;arxiu de només lectura per al propietari.\nTambé es recomana establir la notificació d&apos;alertes i així seràs notificat de les incidències;\nper exemple: alertnotify=echo %%s | mail -s &quot;GPUcoin Alert&quot; admin@foo.com</translation>
+        <translation>%s has de establir una contrasenya RPC a l&apos;arxiu de configuració:\n%s\nEs recomana que useu la següent constrasenya aleatòria:\nrpcuser=britishcoinrpc\nrpcpassword=%s\n(no necesiteu recordar aquesta contrsenya)\nEl nom d&apos;usuari i contrasenya NO HAN de ser els mateixos.\nSi l&apos;arxiu no existeix, crea&apos;l amb els permisos d&apos;arxiu de només lectura per al propietari.\nTambé es recomana establir la notificació d&apos;alertes i així seràs notificat de les incidències;\nper exemple: alertnotify=echo %%s | mail -s &quot;Britishcoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2313,8 +2313,8 @@ for example: alertnotify=echo %%s | mail -s &quot;GPUcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. GPUcoin is probably already running.</source>
-        <translation>No es pot bloquejar el directori de dades %s. Probablement GPUcoin ja estigui en execució.</translation>
+        <source>Cannot obtain a lock on data directory %s. Britishcoin is probably already running.</source>
+        <translation>No es pot bloquejar el directori de dades %s. Probablement Britishcoin ja estigui en execució.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2358,8 +2358,8 @@ for example: alertnotify=echo %%s | mail -s &quot;GPUcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GPUcoin will not work properly.</source>
-        <translation>Advertència: Si us plau comprovi que la data i hora del seu computador siguin correctes! Si el seu rellotge està mal configurat, GPUcoin no funcionará de manera apropiada.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Britishcoin will not work properly.</source>
+        <translation>Advertència: Si us plau comprovi que la data i hora del seu computador siguin correctes! Si el seu rellotge està mal configurat, Britishcoin no funcionará de manera apropiada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2608,8 +2608,8 @@ for example: alertnotify=echo %%s | mail -s &quot;GPUcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the GPUcoin Wiki for SSL setup instructions)</source>
-        <translation>Opcions SSL: (veure la Wiki de GPUcoin per a instruccions de configuració SSL)</translation>
+        <source>SSL options: (see the Britishcoin Wiki for SSL setup instructions)</source>
+        <translation>Opcions SSL: (veure la Wiki de Britishcoin per a instruccions de configuració SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2798,13 +2798,13 @@ for example: alertnotify=echo %%s | mail -s &quot;GPUcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of GPUcoin</source>
-        <translation>Error carregant wallet.dat: El moneder requereix una versió de GPUcoin més moderna</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Britishcoin</source>
+        <translation>Error carregant wallet.dat: El moneder requereix una versió de Britishcoin més moderna</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart GPUcoin to complete</source>
-        <translation>El moneder necesita ser re-escrit: re-inicia GPUcoin per a completar la tasca</translation>
+        <source>Wallet needed to be rewritten: restart Britishcoin to complete</source>
+        <translation>El moneder necesita ser re-escrit: re-inicia Britishcoin per a completar la tasca</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2863,8 +2863,8 @@ for example: alertnotify=echo %%s | mail -s &quot;GPUcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. GPUcoin is probably already running.</source>
-        <translation>Impossible d&apos;unir %s en aquest ordinador. Probablement GPUcoin ja estigui en execució.</translation>
+        <source>Unable to bind to %s on this computer. Britishcoin is probably already running.</source>
+        <translation>Impossible d&apos;unir %s en aquest ordinador. Probablement Britishcoin ja estigui en execució.</translation>
     </message>
     <message>
         <location line="+64"/>

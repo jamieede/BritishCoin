@@ -1,7 +1,7 @@
 GPUCoin
 ================================
 
-http://www.gpucoin.net
+http://www.britishcoin.net
 
 Copyright (c) 2009-2013 Bitcoin Developers
 
@@ -40,7 +40,7 @@ Development plan
 Coding:
   - (done) Temporarily remove checkpoints 
   - (done) Change ports
-  - (done) Update GPUcoin_seeder with ports.
+  - (done) Update Britishcoin_seeder with ports.
   - (done) All name changes, and symbol changes: GPUC
   - (done) Change max coins amount, and original COIN amount
   - (done) Change KGW retarget time
@@ -121,5 +121,5 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 
     qmake BITCOIN_QT_TEST=1 -o Makefile.test bitcoin-qt.pro
     make -f Makefile.test
-    ./GPUcoin-qt_test
+    ./Britishcoin-qt_test
 

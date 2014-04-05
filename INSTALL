@@ -1,9 +1,9 @@
-Building GPUcoin
+Building Britishcoin
 
-See doc/readme-qt.rst for instructions on building GPUcoin-Qt,
+See doc/readme-qt.rst for instructions on building Britishcoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of GPUcoin.
+implementation of Britishcoin.
 
-See doc/build-*.txt for instructions on building gpucoind,
+See doc/build-*.txt for instructions on building britishcoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of GPUcoin.
+implementation of Britishcoin.

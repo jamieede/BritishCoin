@@ -3,7 +3,7 @@
 <plist version="0.9">
 <dict>
 	<key>CFBundleIconFile</key>
-	<string>gpucoin.icns</string>
+	<string>britishcoin.icns</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleGetInfoString</key>
@@ -15,19 +15,19 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>GPUcoin-Qt</string>
+	<string>Britishcoin-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.gpucoin.GPUcoin-Qt</string>
+	<string>org.britishcoin.Britishcoin-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>org.gpucoin.GPUcoinPayment</string>
+            <string>org.britishcoin.BritishcoinPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
-              <string>gpucoin</string>
+              <string>britishcoin</string>
             </array>
           </dict>
         </array>

@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About GPUcoin</source>
-        <translation>Apie GPUcoin</translation>
+        <source>About Britishcoin</source>
+        <translation>Apie Britishcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;GPUcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;GPUcoin&lt;/b&gt; versija</translation>
+        <source>&lt;b&gt;Britishcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Britishcoin&lt;/b&gt; versija</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -33,7 +33,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+0"/>
-        <source>The GPUcoin developers</source>
+        <source>The Britishcoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -66,8 +66,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your GPUcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Tai yra jūsų GPUcoin adresai mokėjimų gavimui. Galite duoti skirtingus adresus atskiriems siuntėjams, kad galėtumėte sekti, kas jums moka.</translation>
+        <source>These are your Britishcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Tai yra jūsų Britishcoin adresai mokėjimų gavimui. Galite duoti skirtingus adresus atskiriems siuntėjams, kad galėtumėte sekti, kas jums moka.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -81,8 +81,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a GPUcoin address</source>
-        <translation>Pasirašykite žinutę, kad įrodytume, jog esate GPUcoin adreso savininkas</translation>
+        <source>Sign a message to prove you own a Britishcoin address</source>
+        <translation>Pasirašykite žinutę, kad įrodytume, jog esate Britishcoin adreso savininkas</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -106,8 +106,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified GPUcoin address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas GPUcoin adresas</translation>
+        <source>Verify a message to ensure it was signed with a specified Britishcoin address</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Britishcoin adresas</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -121,7 +121,7 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your GPUcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Britishcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -247,8 +247,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR GPUCOINS&lt;/b&gt;!</source>
-        <translation>Dėmesio: jei užšifruosite savo piniginę ir pamesite slaptafrazę, jūs&lt;b&gt;PRARASITE VISUS SAVO GPUcoinUS&lt;/b&gt;! </translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BRITISHCOINS&lt;/b&gt;!</source>
+        <translation>Dėmesio: jei užšifruosite savo piniginę ir pamesite slaptafrazę, jūs&lt;b&gt;PRARASITE VISUS SAVO BritishcoinUS&lt;/b&gt;! </translation>
     </message>
     <message>
         <location line="+0"/>
@@ -274,8 +274,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-56"/>
-        <source>GPUcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your gpucoins from being stolen by malware infecting your computer.</source>
-        <translation>GPUcoin dabar užsidarys šifravimo proceso pabaigai. Atminkite, kad piniginės šifravimas negali pilnai apsaugoti gpucoinų vagysčių kai tinkle esančios kenkėjiškos programos patenka į jūsų kompiuterį.</translation>
+        <source>Britishcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your britishcoins from being stolen by malware infecting your computer.</source>
+        <translation>Britishcoin dabar užsidarys šifravimo proceso pabaigai. Atminkite, kad piniginės šifravimas negali pilnai apsaugoti britishcoinų vagysčių kai tinkle esančios kenkėjiškos programos patenka į jūsų kompiuterį.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -373,8 +373,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about GPUcoin</source>
-        <translation>Rodyti informaciją apie GPUcoin</translation>
+        <source>Show information about Britishcoin</source>
+        <translation>Rodyti informaciją apie Britishcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -418,13 +418,13 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a GPUcoin address</source>
-        <translation>Siųsti monetas GPUcoin adresui</translation>
+        <source>Send coins to a Britishcoin address</source>
+        <translation>Siųsti monetas Britishcoin adresui</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for GPUcoin</source>
-        <translation>Keisti gpucoin konfigūracijos galimybes</translation>
+        <source>Modify configuration options for Britishcoin</source>
+        <translation>Keisti britishcoin konfigūracijos galimybes</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -454,8 +454,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>GPUcoin</source>
-        <translation>GPUcoin</translation>
+        <source>Britishcoin</source>
+        <translation>Britishcoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -479,8 +479,8 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About GPUcoin</source>
-        <translation>&amp;Apie GPUcoin</translation>
+        <source>&amp;About Britishcoin</source>
+        <translation>&amp;Apie Britishcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -499,12 +499,12 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your GPUcoin addresses to prove you own them</source>
+        <source>Sign messages with your Britishcoin addresses to prove you own them</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified GPUcoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Britishcoin addresses</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -535,13 +535,13 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     </message>
     <message>
         <location line="+47"/>
-        <source>GPUcoin client</source>
-        <translation>GPUcoin klientas</translation>
+        <source>Britishcoin client</source>
+        <translation>Britishcoin klientas</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to GPUcoin network</source>
-        <translation><numerusform>%n GPUcoin tinklo aktyvus ryšys</numerusform><numerusform>%n GPUcoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n GPUcoin tinklo aktyvūs ryšiai</numerusform></translation>
+        <source>%n active connection(s) to Britishcoin network</source>
+        <translation><numerusform>%n Britishcoin tinklo aktyvus ryšys</numerusform><numerusform>%n Britishcoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n Britishcoin tinklo aktyvūs ryšiai</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -654,7 +654,7 @@ Adresas: %4</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid GPUcoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Britishcoin address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -669,7 +669,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. GPUcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Britishcoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -735,8 +735,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid GPUcoin address.</source>
-        <translation>Įvestas adresas „%1“ nėra galiojantis GPUcoin adresas.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Britishcoin address.</source>
+        <translation>Įvestas adresas „%1“ nėra galiojantis Britishcoin adresas.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -754,8 +754,8 @@ Adresas: %4</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>GPUcoin-Qt</source>
-        <translation>GPUcoin-Qt</translation>
+        <source>Britishcoin-Qt</source>
+        <translation>Britishcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -817,13 +817,13 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start GPUcoin after logging in to the system.</source>
+        <source>Automatically start Britishcoin after logging in to the system.</source>
         <translation>Automatiškai paleisti Bitkoin programą įjungus sistemą.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start GPUcoin on system login</source>
-        <translation>&amp;Paleisti GPUcoin programą su window sistemos paleidimu</translation>
+        <source>&amp;Start Britishcoin on system login</source>
+        <translation>&amp;Paleisti Britishcoin programą su window sistemos paleidimu</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -842,8 +842,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the GPUcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatiškai atidaryti GPUcoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
+        <source>Automatically open the Britishcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatiškai atidaryti Britishcoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -852,7 +852,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the GPUcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Britishcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation>Jungtis į Bitkoin tinklą per  socks proxy (pvz. jungiantis per Tor)</translation>
     </message>
     <message>
@@ -927,8 +927,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting GPUcoin.</source>
-        <translation>Čia gali būti nustatyta naudotojo sąsajos kalba. Šis nustatymas įsigalios iš naujo paleidus GPUcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Britishcoin.</source>
+        <translation>Čia gali būti nustatyta naudotojo sąsajos kalba. Šis nustatymas įsigalios iš naujo paleidus Britishcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -942,7 +942,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show GPUcoin addresses in the transaction list or not.</source>
+        <source>Whether to show Britishcoin addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -994,7 +994,7 @@ Adresas: %4</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting GPUcoin.</source>
+        <source>This setting will take effect after restarting Britishcoin.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1013,7 +1013,7 @@ Adresas: %4</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GPUcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Britishcoin network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1067,7 +1067,7 @@ Adresas: %4</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start gpucoin: click-to-pay handler</source>
+        <source>Cannot start britishcoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1217,7 +1217,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the GPUcoin-Qt help message to get a list with possible GPUcoin command-line options.</source>
+        <source>Show the Britishcoin-Qt help message to get a list with possible Britishcoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1237,13 +1237,13 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>GPUcoin - Debug window</source>
-        <translation>GPUcoin - Derinimo langas</translation>
+        <source>Britishcoin - Debug window</source>
+        <translation>Britishcoin - Derinimo langas</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>GPUcoin Core</source>
-        <translation>GPUcoin branduolys</translation>
+        <source>Britishcoin Core</source>
+        <translation>Britishcoin branduolys</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1252,7 +1252,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the GPUcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Britishcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1262,7 +1262,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the GPUcoin RPC console.</source>
+        <source>Welcome to the Britishcoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1446,7 +1446,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a GPUcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a Britishcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>Įveskite bitkoinų adresą (pvz. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
@@ -1511,7 +1511,7 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this GPUcoin address</source>
+        <source>Sign the message to prove you own this Britishcoin address</source>
         <translation>Registruotis žinute įrodymuii, kad turite šį adresą</translation>
     </message>
     <message>
@@ -1547,8 +1547,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified GPUcoin address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas GPUcoin adresas</translation>
+        <source>Verify the message to ensure it was signed with the specified Britishcoin address</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Britishcoin adresas</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1563,7 +1563,7 @@ Adresas: %4</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a GPUcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <source>Enter a Britishcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
         <translation>Įveskite bitkoinų adresą (pvz. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
@@ -1573,8 +1573,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter GPUcoin signature</source>
-        <translation>Įveskite GPUcoin parašą</translation>
+        <source>Enter Britishcoin signature</source>
+        <translation>Įveskite Britishcoin parašą</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1647,7 +1647,7 @@ Adresas: %4</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The GPUcoin developers</source>
+        <source>The Britishcoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2185,8 +2185,8 @@ Adresas: %4</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>GPUcoin version</source>
-        <translation>GPUcoin versija</translation>
+        <source>Britishcoin version</source>
+        <translation>Britishcoin versija</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2195,8 +2195,8 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or gpucoind</source>
-        <translation>Siųsti komandą serveriui arba gpucoind</translation>
+        <source>Send command to -server or britishcoind</source>
+        <translation>Siųsti komandą serveriui arba britishcoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2215,13 +2215,13 @@ Adresas: %4</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: gpucoin.conf)</source>
-        <translation>Nurodyti konfigūracijos failą (pagal nutylėjimąt: gpucoin.conf)</translation>
+        <source>Specify configuration file (default: britishcoin.conf)</source>
+        <translation>Nurodyti konfigūracijos failą (pagal nutylėjimąt: britishcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: gpucoind.pid)</source>
-        <translation>Nurodyti pid failą (pagal nutylėjimą: gpucoind.pid)</translation>
+        <source>Specify pid file (default: britishcoind.pid)</source>
+        <translation>Nurodyti pid failą (pagal nutylėjimą: britishcoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2298,13 +2298,13 @@ Adresas: %4</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=gpucoinrpc
+rpcuser=britishcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;GPUcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Britishcoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2320,7 +2320,7 @@ for example: alertnotify=echo %%s | mail -s &quot;GPUcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. GPUcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Britishcoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2365,8 +2365,8 @@ for example: alertnotify=echo %%s | mail -s &quot;GPUcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GPUcoin will not work properly.</source>
-        <translation>Įspėjimas: Patikrinkite, kad kompiuterio data ir laikas yra teisingi.Jei Jūsų laikrodis neteisingai nustatytas GPUcoin, veiks netinkamai.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Britishcoin will not work properly.</source>
+        <translation>Įspėjimas: Patikrinkite, kad kompiuterio data ir laikas yra teisingi.Jei Jūsų laikrodis neteisingai nustatytas Britishcoin, veiks netinkamai.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2615,8 +2615,8 @@ for example: alertnotify=echo %%s | mail -s &quot;GPUcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the GPUcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL opcijos (žr.e GPUcoin Wiki for SSL setup instructions)</translation>
+        <source>SSL options: (see the Britishcoin Wiki for SSL setup instructions)</source>
+        <translation>SSL opcijos (žr.e Britishcoin Wiki for SSL setup instructions)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2805,13 +2805,13 @@ for example: alertnotify=echo %%s | mail -s &quot;GPUcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of GPUcoin</source>
-        <translation> wallet.dat pakrovimo klaida,  wallet.dat reikalauja naujasnės GPUcoin versijos</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Britishcoin</source>
+        <translation> wallet.dat pakrovimo klaida,  wallet.dat reikalauja naujasnės Britishcoin versijos</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart GPUcoin to complete</source>
-        <translation>Piniginė turi būti prrašyta: įvykdymui perkraukite GPUcoin</translation>
+        <source>Wallet needed to be rewritten: restart Britishcoin to complete</source>
+        <translation>Piniginė turi būti prrašyta: įvykdymui perkraukite Britishcoin</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2870,8 +2870,8 @@ for example: alertnotify=echo %%s | mail -s &quot;GPUcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. GPUcoin is probably already running.</source>
-        <translation>Nepavyko susieti šiame kompiuteryje prievado %s. GPUcoin tikriausiai jau veikia.</translation>
+        <source>Unable to bind to %s on this computer. Britishcoin is probably already running.</source>
+        <translation>Nepavyko susieti šiame kompiuteryje prievado %s. Britishcoin tikriausiai jau veikia.</translation>
     </message>
     <message>
         <location line="+64"/>

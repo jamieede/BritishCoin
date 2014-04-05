@@ -1,5 +1,5 @@
-IDI_ICON1 ICON DISCARDABLE "icons/gpucoin.ico"
-IDI_ICON2 ICON DISCARDABLE "icons/gpucoin_testnet.ico"
+IDI_ICON1 ICON DISCARDABLE "icons/britishcoin.ico"
+IDI_ICON2 ICON DISCARDABLE "icons/britishcoin_testnet.ico"
 
 #include <windows.h>             // needed for VERSIONINFO
 #include "../../clientversion.h" // holds the needed client version information
@@ -8,7 +8,7 @@ IDI_ICON2 ICON DISCARDABLE "icons/gpucoin_testnet.ico"
 #define VER_PRODUCTVERSION_STR STRINGIZE(CLIENT_VERSION_MAJOR) "." STRINGIZE(CLIENT_VERSION_MINOR) "." STRINGIZE(CLIENT_VERSION_REVISION) "." STRINGIZE(CLIENT_VERSION_BUILD)
 #define VER_FILEVERSION        VER_PRODUCTVERSION
 #define VER_FILEVERSION_STR    VER_PRODUCTVERSION_STR
-#define COPYRIGHT_STR          "2009-" STRINGIZE(COPYRIGHT_YEAR) " The Bitcoin developers 2011-" STRINGIZE(COPYRIGHT_YEAR) " The GPUcoin developers"
+#define COPYRIGHT_STR          "2009-" STRINGIZE(COPYRIGHT_YEAR) " The Bitcoin developers 2011-" STRINGIZE(COPYRIGHT_YEAR) " The Britishcoin developers"
 
 VS_VERSION_INFO VERSIONINFO
 FILEVERSION     VER_FILEVERSION
@@ -20,14 +20,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "GPUcoin"
-            VALUE "FileDescription",    "GPUcoin-Qt (OSS GUI client for GPUcoin)"
+            VALUE "CompanyName",        "Britishcoin"
+            VALUE "FileDescription",    "Britishcoin-Qt (OSS GUI client for Britishcoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "gpucoin-qt"
+            VALUE "InternalName",       "britishcoin-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "gpucoin-qt.exe"
-            VALUE "ProductName",        "GPUcoin-Qt"
+            VALUE "OriginalFilename",   "britishcoin-qt.exe"
+            VALUE "ProductName",        "Britishcoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

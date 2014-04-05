@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About GPUcoin</source>
-        <translation>Informatio de GPUcoin</translation>
+        <source>About Britishcoin</source>
+        <translation>Informatio de Britishcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;GPUcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;GPUcoin&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;Britishcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Britishcoin&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -33,8 +33,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+0"/>
-        <source>The GPUcoin developers</source>
-        <translation>GPUcoin curatores</translation>
+        <source>The Britishcoin developers</source>
+        <translation>Britishcoin curatores</translation>
     </message>
 </context>
 <context>
@@ -66,8 +66,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your GPUcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Haec sunt inscriptiones GPUcoin tuae pro accipendo pensitationes.  Cupias variam ad quemque mittentem dare ut melius scias quem tibi pensare.</translation>
+        <source>These are your Britishcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Haec sunt inscriptiones Britishcoin tuae pro accipendo pensitationes.  Cupias variam ad quemque mittentem dare ut melius scias quem tibi pensare.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -81,8 +81,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a GPUcoin address</source>
-        <translation>Signa nuntium ut demonstres inscriptionem GPUcoin a te possessam esse</translation>
+        <source>Sign a message to prove you own a Britishcoin address</source>
+        <translation>Signa nuntium ut demonstres inscriptionem Britishcoin a te possessam esse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -106,8 +106,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified GPUcoin address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specificata inscriptione GPUcoin</translation>
+        <source>Verify a message to ensure it was signed with a specified Britishcoin address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specificata inscriptione Britishcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -121,7 +121,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your GPUcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Britishcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Hae sunt inscriptiones mittendi pensitationes.  Semper inspice quantitatem et inscriptionem accipiendi antequam nummos mittis.</translation>
     </message>
     <message>
@@ -247,7 +247,7 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR GPUCOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BRITISHCOINS&lt;/b&gt;!</source>
         <translation>Monitio: Si cassidile tuum cifras et tesseram amittis, tu &lt;b&gt;AMITTES OMNES TUOS NUMMOS BITOS&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -274,8 +274,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-56"/>
-        <source>GPUcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your gpucoins from being stolen by malware infecting your computer.</source>
-        <translation>GPUcoin iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
+        <source>Britishcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your britishcoins from being stolen by malware infecting your computer.</source>
+        <translation>Britishcoin iam desinet ut finiat actionem cifrandi.  Memento cassidile cifrare non posse cuncte curare ne tui nummi clepantur ab malis programatibus in tuo computatro.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -373,8 +373,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about GPUcoin</source>
-        <translation>Monstra informationem de GPUcoin</translation>
+        <source>Show information about Britishcoin</source>
+        <translation>Monstra informationem de Britishcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -418,13 +418,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a GPUcoin address</source>
-        <translation>Mitte nummos ad inscriptionem GPUcoin</translation>
+        <source>Send coins to a Britishcoin address</source>
+        <translation>Mitte nummos ad inscriptionem Britishcoin</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for GPUcoin</source>
-        <translation>Muta configurationis optiones pro GPUcoin</translation>
+        <source>Modify configuration options for Britishcoin</source>
+        <translation>Muta configurationis optiones pro Britishcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -454,8 +454,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>GPUcoin</source>
-        <translation>GPUcoin</translation>
+        <source>Britishcoin</source>
+        <translation>Britishcoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -479,8 +479,8 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About GPUcoin</source>
-        <translation>&amp;Informatio de GPUcoin</translation>
+        <source>&amp;About Britishcoin</source>
+        <translation>&amp;Informatio de Britishcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -499,13 +499,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your GPUcoin addresses to prove you own them</source>
-        <translation>Signa nuntios cum tuis inscriptionibus GPUcoin ut demonstres te eas possidere</translation>
+        <source>Sign messages with your Britishcoin addresses to prove you own them</source>
+        <translation>Signa nuntios cum tuis inscriptionibus Britishcoin ut demonstres te eas possidere</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified GPUcoin addresses</source>
-        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus GPUcoin</translation>
+        <source>Verify messages to ensure they were signed with specified Britishcoin addresses</source>
+        <translation>Verifica nuntios ut certus sis eos signatos esse cum specificatis inscriptionibus Britishcoin</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -535,13 +535,13 @@ Hoc productum continet programmata composita ab OpenSSL Project pro utendo in Op
     </message>
     <message>
         <location line="+47"/>
-        <source>GPUcoin client</source>
-        <translation>GPUcoin cliens</translation>
+        <source>Britishcoin client</source>
+        <translation>Britishcoin cliens</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to GPUcoin network</source>
-        <translation><numerusform>%n activa conexio ad rete GPUcoin</numerusform><numerusform>%n activae conexiones ad rete GPUcoin</numerusform></translation>
+        <source>%n active connection(s) to Britishcoin network</source>
+        <translation><numerusform>%n activa conexio ad rete Britishcoin</numerusform><numerusform>%n activae conexiones ad rete Britishcoin</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -655,8 +655,8 @@ Inscriptio: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid GPUcoin address or malformed URI parameters.</source>
-        <translation>URI intellegi non posse!  Huius causa possit inscriptionem GPUcoin non validam aut URI parametra maleformata.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Britishcoin address or malformed URI parameters.</source>
+        <translation>URI intellegi non posse!  Huius causa possit inscriptionem Britishcoin non validam aut URI parametra maleformata.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -670,8 +670,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. GPUcoin can no longer continue safely and will quit.</source>
-        <translation>Error fatalis accidit.  GPUcoin nondum pergere tute potest, et exibit.</translation>
+        <source>A fatal error occurred. Britishcoin can no longer continue safely and will quit.</source>
+        <translation>Error fatalis accidit.  Britishcoin nondum pergere tute potest, et exibit.</translation>
     </message>
 </context>
 <context>
@@ -736,8 +736,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid GPUcoin address.</source>
-        <translation>Inscriptio inserta &quot;%1&quot; non valida inscriptio GPUcoin est.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Britishcoin address.</source>
+        <translation>Inscriptio inserta &quot;%1&quot; non valida inscriptio Britishcoin est.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -755,8 +755,8 @@ Inscriptio: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>GPUcoin-Qt</source>
-        <translation>GPUcoin-Qt</translation>
+        <source>Britishcoin-Qt</source>
+        <translation>Britishcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -818,13 +818,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start GPUcoin after logging in to the system.</source>
-        <translation>Pelle GPUcoin per se postquam in systema inire.</translation>
+        <source>Automatically start Britishcoin after logging in to the system.</source>
+        <translation>Pelle Britishcoin per se postquam in systema inire.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start GPUcoin on system login</source>
-        <translation>&amp;Pelle GPUcoin cum inire systema</translation>
+        <source>&amp;Start Britishcoin on system login</source>
+        <translation>&amp;Pelle Britishcoin cum inire systema</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -843,8 +843,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the GPUcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aperi per se portam clientis GPUcoin in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
+        <source>Automatically open the Britishcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Aperi per se portam clientis Britishcoin in itineratore.  Hoc tantum effectivum est si itineratrum tuum supportat UPnP et id activum est.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -853,8 +853,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the GPUcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecte ad rete GPUcoin per SOCKS vicarium (e.g. quando conectens per Tor).</translation>
+        <source>Connect to the Britishcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecte ad rete Britishcoin per SOCKS vicarium (e.g. quando conectens per Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -928,8 +928,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting GPUcoin.</source>
-        <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam GPUcoin iterum initiatum erit.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Britishcoin.</source>
+        <translation>Lingua monstranda utenti hic constitui potest.  Haec configuratio effectiva erit postquam Britishcoin iterum initiatum erit.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -943,8 +943,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show GPUcoin addresses in the transaction list or not.</source>
-        <translation>Num monstrare inscriptiones GPUcoin in enumeratione transactionum.</translation>
+        <source>Whether to show Britishcoin addresses in the transaction list or not.</source>
+        <translation>Num monstrare inscriptiones Britishcoin in enumeratione transactionum.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -995,8 +995,8 @@ Inscriptio: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting GPUcoin.</source>
-        <translation>Haec configuratio effectiva erit postquam GPUcoin iterum initiatum erit.</translation>
+        <source>This setting will take effect after restarting Britishcoin.</source>
+        <translation>Haec configuratio effectiva erit postquam Britishcoin iterum initiatum erit.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1014,8 +1014,8 @@ Inscriptio: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the GPUcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete GPUcoin postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Britishcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Monstrata informatio fortasse non recentissima est.  Tuum cassidile per se synchronizat cum rete Britishcoin postquam conexio constabilita est, sed hoc actio nondum perfecta est.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1068,8 +1068,8 @@ Inscriptio: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start gpucoin: click-to-pay handler</source>
-        <translation>GPUcoin incipere non potest: cliccare-ad-pensandum handler</translation>
+        <source>Cannot start britishcoin: click-to-pay handler</source>
+        <translation>Britishcoin incipere non potest: cliccare-ad-pensandum handler</translation>
     </message>
 </context>
 <context>
@@ -1218,8 +1218,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the GPUcoin-Qt help message to get a list with possible GPUcoin command-line options.</source>
-        <translation>Monstra nuntium auxilii GPUcoin-Qt ut videas enumerationem possibilium optionum GPUcoin mandati initiantis.</translation>
+        <source>Show the Britishcoin-Qt help message to get a list with possible Britishcoin command-line options.</source>
+        <translation>Monstra nuntium auxilii Britishcoin-Qt ut videas enumerationem possibilium optionum Britishcoin mandati initiantis.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1238,13 +1238,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>GPUcoin - Debug window</source>
-        <translation>GPUcoin - Fenestra debug</translation>
+        <source>Britishcoin - Debug window</source>
+        <translation>Britishcoin - Fenestra debug</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>GPUcoin Core</source>
-        <translation>GPUcoin Nucleus</translation>
+        <source>Britishcoin Core</source>
+        <translation>Britishcoin Nucleus</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1253,8 +1253,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the GPUcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Aperi plicam catalogi de GPUcoin debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
+        <source>Open the Britishcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Aperi plicam catalogi de Britishcoin debug ex activo indice datorum.  Hoc possit pauca secunda pro plicis magnis catalogi.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1263,8 +1263,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the GPUcoin RPC console.</source>
-        <translation>Bene ventio in terminale RPC de GPUcoin.</translation>
+        <source>Welcome to the Britishcoin RPC console.</source>
+        <translation>Bene ventio in terminale RPC de Britishcoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1447,8 +1447,8 @@ Inscriptio: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a GPUcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Insero inscriptionem GPUcoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Britishcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Insero inscriptionem Britishcoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1512,8 +1512,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this GPUcoin address</source>
-        <translation>Signa nuntium ut demonstres hanc inscriptionem GPUcoin a te possessa esse</translation>
+        <source>Sign the message to prove you own this Britishcoin address</source>
+        <translation>Signa nuntium ut demonstres hanc inscriptionem Britishcoin a te possessa esse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1548,8 +1548,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified GPUcoin address</source>
-        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione GPUcoin</translation>
+        <source>Verify the message to ensure it was signed with the specified Britishcoin address</source>
+        <translation>Verifica nuntium ut cures signatum esse cum specifica inscriptione Britishcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1564,8 +1564,8 @@ Inscriptio: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a GPUcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Insere inscriptionem GPUcoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Britishcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Insere inscriptionem Britishcoin (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1574,8 +1574,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter GPUcoin signature</source>
-        <translation>Insere signationem GPUcoin</translation>
+        <source>Enter Britishcoin signature</source>
+        <translation>Insere signationem Britishcoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1648,8 +1648,8 @@ Inscriptio: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The GPUcoin developers</source>
-        <translation>GPUcoin curatores</translation>
+        <source>The Britishcoin developers</source>
+        <translation>Britishcoin curatores</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2186,8 +2186,8 @@ Inscriptio: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>GPUcoin version</source>
-        <translation>Versio de GPUcoin</translation>
+        <source>Britishcoin version</source>
+        <translation>Versio de Britishcoin</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2196,8 +2196,8 @@ Inscriptio: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or gpucoind</source>
-        <translation>Mitte mandatum ad -server vel gpucoind</translation>
+        <source>Send command to -server or britishcoind</source>
+        <translation>Mitte mandatum ad -server vel britishcoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2216,13 +2216,13 @@ Inscriptio: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: gpucoin.conf)</source>
-        <translation>Specifica configurationis plicam (praedefinitum: gpucoin.conf)</translation>
+        <source>Specify configuration file (default: britishcoin.conf)</source>
+        <translation>Specifica configurationis plicam (praedefinitum: britishcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: gpucoind.pid)</source>
-        <translation>Specifica pid plicam (praedefinitum: gpucoin.pid)</translation>
+        <source>Specify pid file (default: britishcoind.pid)</source>
+        <translation>Specifica pid plicam (praedefinitum: britishcoin.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2299,24 +2299,24 @@ Inscriptio: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=gpucoinrpc
+rpcuser=britishcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;GPUcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Britishcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, necesse est te rpcpassword constituere in plica configurationis:
 %s
 Hortatur te hanc fortuitam tesseram uti:
-rpcuser=gpucoinrpc
+rpcuser=britishcoinrpc
 rpcpassword=%s
 (non est necesse te hanc tesseram meminisse)
 Nomen usoris et tessera eadem esse NON POSSUNT.
 Si plica non existit, eam crea cum permissionibus ut eius dominus tantum sinitur id legere.
 Quoque hortatur alertnotify constituere ut tu notificetur de problematibus;
-exempli gratia: alertnotify=echo %%s | mail -s &quot;GPUcoin Notificatio&quot; admin@foo.com
+exempli gratia: alertnotify=echo %%s | mail -s &quot;Britishcoin Notificatio&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2331,8 +2331,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;GPUcoin Notificatio&quot; a
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. GPUcoin is probably already running.</source>
-        <translation>Non posse serare datorum indicem %s.  GPUcoin probabiliter iam operatur.</translation>
+        <source>Cannot obtain a lock on data directory %s. Britishcoin is probably already running.</source>
+        <translation>Non posse serare datorum indicem %s.  Britishcoin probabiliter iam operatur.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2376,8 +2376,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;GPUcoin Notificatio&quot; a
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong GPUcoin will not work properly.</source>
-        <translation>Monitio: Sodes cura ut dies tempusque computatri tui recti sunt!  Si horologium tuum pravum est, GPUcoin non proprie fungetur.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Britishcoin will not work properly.</source>
+        <translation>Monitio: Sodes cura ut dies tempusque computatri tui recti sunt!  Si horologium tuum pravum est, Britishcoin non proprie fungetur.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2626,8 +2626,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;GPUcoin Notificatio&quot; a
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the GPUcoin Wiki for SSL setup instructions)</source>
-        <translation>Optiones SSL: (vide vici de GPUcoin pro instructionibus SSL configurationis)</translation>
+        <source>SSL options: (see the Britishcoin Wiki for SSL setup instructions)</source>
+        <translation>Optiones SSL: (vide vici de Britishcoin pro instructionibus SSL configurationis)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2816,13 +2816,13 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;GPUcoin Notificatio&quot; a
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of GPUcoin</source>
-        <translation>Error legendi wallet.dat: Cassidili necesse est recentior versio GPUcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Britishcoin</source>
+        <translation>Error legendi wallet.dat: Cassidili necesse est recentior versio Britishcoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart GPUcoin to complete</source>
-        <translation>Cassidili necesse erat rescribi: Repelle GPUcoin ut compleas</translation>
+        <source>Wallet needed to be rewritten: restart Britishcoin to complete</source>
+        <translation>Cassidili necesse erat rescribi: Repelle Britishcoin ut compleas</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2881,8 +2881,8 @@ exempli gratia: alertnotify=echo %%s | mail -s &quot;GPUcoin Notificatio&quot; a
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. GPUcoin is probably already running.</source>
-        <translation>Non posse conglutinare ad %s in hoc cumputatro.  GPUcoin probabiliter iam operatur.</translation>
+        <source>Unable to bind to %s on this computer. Britishcoin is probably already running.</source>
+        <translation>Non posse conglutinare ad %s in hoc cumputatro.  Britishcoin probabiliter iam operatur.</translation>
     </message>
     <message>
         <location line="+64"/>
