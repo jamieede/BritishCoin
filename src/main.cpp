@@ -1097,11 +1097,11 @@ unsigned char GetNfactor(int64 nTimestamp) {
 
 int64 static GetBlockValue(int nHeight, int64 nFees)
 {
-    int64 nSubsidy = 20000 * COIN;
+    int64 nSubsidy = 10000 * COIN;
 
     if (nHeight == 1)
     {
-       nSubsidy = 400000000 * COIN;  // premine for Britishcoin IPO Investors
+       nSubsidy = 200000000 * COIN;  // premine for Britishcoin IPO Investors
     }
     else if (nHeight >1 && nHeight <= 200)  //launch at 200 with checkpoints, KGW kicks in at block 180 before that .. all zeroes
     {
@@ -2872,7 +2872,7 @@ bool InitBlockIndex() {
     // Only add the genesis block if not reindexing (in which case we reuse the one already on disk)
     if (!fReindex) {
 
-        const char* pszTimestamp = "3/7/2014 Satoshi Nakamoto Denies Being Creator of Bitcoin Amid Media Frenzy";
+        const char* pszTimestamp = "Time is time if time is time";
 
         CTransaction txNew;
         txNew.vin.resize(1);
@@ -2885,13 +2885,13 @@ bool InitBlockIndex() {
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1394259991; //final time
+        block.nTime    = 1396584244; //final time
         block.nBits    = 0x1e0ffff0;
         block.nNonce   = 9063416;
 
         if (fTestNet)
         {
-            block.nTime    = 1394259991;
+            block.nTime    = 1396584244;
             block.nBits    = 0x1e0ffff0;
             block.nNonce   = 8428062;
         }
