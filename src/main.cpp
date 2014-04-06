@@ -32,7 +32,7 @@ CTxMemPool mempool;
 unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
-uint256 hashGenesisBlock("0x7c4c608556280f9fc850e027112ffdfcc440b67d577f345e31bb87e7c8cb3586");
+uint256 hashGenesisBlock("0x46b6c27a97b2b34870cf294cdd8eebf0f07b2bd6a0d203cc55bb0c6a765af4e0");
 static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // Britishcoin: starting difficulty is 1 / 2^12
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
@@ -2887,13 +2887,13 @@ bool InitBlockIndex() {
         block.nVersion = 1;
         block.nTime    = 1396584244; //final time
         block.nBits    = 0x1e0ffff0;
-        block.nNonce   = 10232977;
+        block.nNonce   = 9063416;
 
         if (fTestNet)
         {
             block.nTime    = 1396584244;
             block.nBits    = 0x1e0ffff0;
-            block.nNonce   = 10232977;
+            block.nNonce   = 8428062;
         }
 
         //uint256 hash = block.GetHash();
