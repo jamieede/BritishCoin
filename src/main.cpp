@@ -32,7 +32,7 @@ CTxMemPool mempool;
 unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
-uint256 hashGenesisBlock("0x46b6c27a97b2b34870cf294cdd8eebf0f07b2bd6a0d203cc55bb0c6a765af4e0");
+uint256 hashGenesisBlock("0x7139d962c282e74a85db6b7f652e7bdc370091dec0987db48868f6d15ba21e70");
 static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // Britishcoin: starting difficulty is 1 / 2^12
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
@@ -2842,7 +2842,7 @@ bool LoadBlockIndex()
         pchMessageStart[1] = 0xc1;
         pchMessageStart[2] = 0xb7;
         pchMessageStart[3] = 0xdc;
-        hashGenesisBlock = uint256("0x7c4c608556280f9fc850e027112ffdfcc440b67d577f345e31bb87e7c8cb3586");
+        hashGenesisBlock = uint256("0x7139d962c282e74a85db6b7f652e7bdc370091dec0987db48868f6d15ba21e70");
     }
 
     //
@@ -2887,13 +2887,13 @@ bool InitBlockIndex() {
         block.nVersion = 1;
         block.nTime    = 1396584244; //final time
         block.nBits    = 0x1e0ffff0;
-        block.nNonce   = 9063416;
+        block.nNonce   = 10232977;
 
         if (fTestNet)
         {
             block.nTime    = 1396584244;
             block.nBits    = 0x1e0ffff0;
-            block.nNonce   = 8428062;
+            block.nNonce   = 10232977;
         }
 
         //uint256 hash = block.GetHash();
